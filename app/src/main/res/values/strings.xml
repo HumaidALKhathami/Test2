@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test2</string>
+    <string name="true_botton">true</string>
+    <string name="false_botton">false</string>
+    <string name="questionTextView">Riyadh is the capital of Saudi Arabia</string>
+
+    <string name="correct_toast">correct!</string>
+    <string name="incorrect_toast">incorrect!!</string>
+</resources>
